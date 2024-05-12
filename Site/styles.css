@@ -18,6 +18,21 @@ body {
     padding: 0 20px;
 }
 
+.container ul {
+    list-style: none; 
+    padding: 0; 
+}
+
+.container ul li {
+    display: inline-block; 
+    margin-right: 10px; 
+}
+
+.container ul li img {
+    width: 300px; 
+    height: auto; 
+}
+
 header {
     background-color: #333;
     color: #fff;
