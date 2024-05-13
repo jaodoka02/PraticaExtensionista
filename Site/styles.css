@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 
+
 /* Estilos Gerais */
 body {
     font-family: Arial, sans-serif;
@@ -25,12 +26,10 @@ body {
 .carousel{
     max-width: 400px; 
     margin: 0 auto; 
+    
 }
 
-.carousel-item img {
-    max-width: 100%;
-    height: auto;
-}
+
 
 
 .container ul li {
@@ -101,14 +100,18 @@ nav ul li a {
     background-color: #ff6347;
 }
 
-/* Estilos para a seção de produtos em destaque (featured-products) podem ser adicionados aqui */
 
-footer {
-    background-color: #333;
-    color: #fff;
-    padding: 20px 0;
-    text-align: center;
+.featured-products {
+    margin-bottom: 80px; 
+}
+
+.footer {
     position: fixed;
+    left: 0;
     bottom: 0;
     width: 100%;
-}
+    background-color:red;
+    color: white;
+    text-align: center;
+  }
+  
