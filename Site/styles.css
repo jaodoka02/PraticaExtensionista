@@ -6,6 +6,14 @@
 }
 
 
+.logo {
+    width: 100px; 
+    height: auto;
+    float: left; 
+    margin-right: 10px;
+}
+
+
 /* Estilos Gerais */
 body {
     font-family: Arial, sans-serif;
