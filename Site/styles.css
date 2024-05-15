@@ -5,6 +5,17 @@
     box-sizing: border-box;
 }
 
+.instagram-link {
+    text-align: center;
+    margin-bottom: 20px; 
+}
+
+.instagram-link p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
 
 .logo {
     width: 100px; 
