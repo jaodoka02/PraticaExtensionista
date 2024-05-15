@@ -6,8 +6,8 @@
 }
 
 .instagram-link {
-    text-align: center;
-    margin-bottom: 20px; 
+    text-align: left;
+    margin-left: 250px; 
 }
 
 .instagram-link p {
@@ -44,7 +44,7 @@ body {
 }
 .carousel{
     max-width: 400px; 
-    margin: 0 auto; 
+    margin-left: 250px; 
     
 }
 
